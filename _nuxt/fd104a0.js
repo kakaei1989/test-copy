@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{265:function(n,t,e){"use strict";e.r(t);var o={name:"IndexPage"},r=e(56),component=Object(r.a)(o,(function(){var n=this,t=n._self._c;return t("div",[t("button",{on:{click:function(t){return n.navigator.clipboard.writeText("asdfghjkl")}}},[n._v("کلیک")])])}),[],!1,null,null,null);t.default=component.exports}}]);
